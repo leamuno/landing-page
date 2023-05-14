@@ -37,6 +37,7 @@ ul {
     justify-content: space-around;
     padding: 50px 150px;
     gap: 30px;
+    align-items: center;
 }
 
 .p-left {
