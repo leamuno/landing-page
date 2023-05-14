@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1F2937;
+    align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    font-size: 18px;
+    color: #E5E7EB;
+    gap: 16px;
+    padding: 0;
+    margin: 0;
+}
